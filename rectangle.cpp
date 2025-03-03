@@ -22,7 +22,7 @@ void Rectangle(){
     double diagonal = sqrt(pow(length, 2) + pow(width, 2));
 
     cout << "Characteristics of rectangle"s << endl;
-    cout << "Perimeter: " << perimeter << '\n' << "Area: " << area << '\n' << "Diagonal: " << diagonal << endl;
+    cout << "Perimeter: "s << perimeter << '\n' << "Area: "s << area << '\n' << "Diagonal: "s << diagonal << endl;
 };
 
 int main(){
