@@ -4,6 +4,7 @@
 
 using namespace std;
 
+//Функция для рассчета параметров прямоугольника
 void Rectangle(){
     int length = 0;
     int width = 0;
